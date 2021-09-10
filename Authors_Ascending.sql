@@ -1,0 +1,3 @@
+SELECT TOP 76 *
+FROM Author
+ORDER BY Name
